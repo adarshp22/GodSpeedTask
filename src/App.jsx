@@ -4,7 +4,7 @@ import Ovc from "./components/overview-counter/Ovc";
 import BannerDetails from "./components/poster-details/BannerDetails";
 import SimpleBanner from "./components/simpleBanner/SimpleBanner";
 import Blogs from "./components/blogs/Blogs";
-import Footer from "./components/footer/footer";
+import Footer from "./components/footer/Footer";
 
 
 function App() {
@@ -18,7 +18,8 @@ function App() {
       <BannerDetails reverse={true} />
       <SimpleBanner />
       <Blogs />
-      <Footer />
+      <Footer/>
+
 
     </div>
   );
