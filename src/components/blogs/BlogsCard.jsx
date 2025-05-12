@@ -12,7 +12,7 @@ const BlogsCard = ({Img, author, date}) => {
         <p className='line-clamp-1'>By {author} </p>
       </div>
       <div className="space-y-2 py-3">
-        <h1 className="line-clamp-1 font-bold"> How to make profit. How to make profit.How to make profit </h1>
+        <h1 className="line-clamp-1 font-bold"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quas, adipisci. </h1>
         <p className='line-clamp-2'> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, suscipit.</p>
       </div>
     </div>
