@@ -5,7 +5,7 @@ import BannerDetails from "./components/poster-details/BannerDetails";
 import SimpleBanner from "./components/simpleBanner/SimpleBanner";
 import Blogs from "./components/blogs/Blogs";
 import Footer from "./components/footer/Footer";
-
+import NewBanner from "./components/poster-details/NewBanner";
 
 function App() {
   return (
@@ -15,7 +15,7 @@ function App() {
       <Hero />
       <Ovc />
       <BannerDetails />
-      <BannerDetails reverse={true} />
+      <NewBanner reverse={true} />
       <SimpleBanner />
       <Blogs />
       <Footer/>

@@ -18,11 +18,9 @@ const SimpleBanner = () => {
           </div>
 
           <div className="flex flex-col items-center gap-4 text-center text-white dark:text-white md:col-span-2 md:items-start md:text-left">
-            <h1 className="text-3xl font-bold">Meet LEGEND ! !</h1>
+            <h1 className="text-3xl font-bold">Meet FOUNDER ! !</h1>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas
-              voluptatem officiis quo eius animi itaque quia molestiae dolor
-              doloremque. Impedit!
+             We are dedicated to developing a fair and equitable ecosystem which fulfils the need of startups and developers.
             </p>
             <button className="btn-primary !bg-white !text-black" >Meet Now</button>
           </div>

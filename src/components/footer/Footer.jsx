@@ -44,13 +44,12 @@ const Footer = () => {
                 </a>
               </h1>
               <p className="">
-                Lorem ipsum dolor sit amet consectetur. Lorem ipsum dolor sit
-                amet consectetur adipisicing elit. Possimus, voluptate.{" "}
+                © 2024 by ISHGATI TECHNOLOGIES PRIVATE LIMITED.{" "}
               </p>
               <br />
               <div className="flex items-center gap-3">
                 <FaLocationArrow />
-                <p>Noida, Uttar Pradesh</p>
+                <p>Himachal Pradesh, Uttarakhand</p>
               </div>
 
               <div className="flex items-center gap-3 mt-3">

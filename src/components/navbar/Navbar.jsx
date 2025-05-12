@@ -60,7 +60,7 @@ const Navbar = () => {
               </li>
               <li className="group cursor-pointer">
                 <a href="#" className="flex items-center gap-[2px] h-[72px]">
-                  Services{" "}
+                  Our Work{" "}
                   <span>
                     <FaCaretDown className="transition-all-duration-200 group-hover:rotate-180">
                       {" "}
@@ -80,39 +80,43 @@ const Navbar = () => {
 
                     <div className="col-span-2">
                       <h1 className="text-xl font-semibold pb-3">
-                        Best Selling
+                        Founders' Biggest Challenges
                       </h1>
 
                       <p className="text-sm text-slate-500">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing
-                        elit. Mollitia molestiae recusandae maxime
-                        exercitationem reiciendis, aliquam eius minima at non
-                        tempora dolor sit dignissimos sed laboriosam quisquam
-                        blanditiis quos, amet doloribus!
+                        Only 10% effort, time, and money yields the real
+                        business breakthroughs. Are you struggling with the
+                        other 90%?
                         <div className="grid grid-cols-3 mt-4">
                           <div>
                             <h1 className="pb-1 text-xl font-semibold ">
-                              Development
+                              The Godspeed Solution
                             </h1>
                             <ul className="space-y-2">
                               <li className="cursor-pointer text-black/80 hover:text-primary">
-                                Web Development
+                                1. 11x Tech and AI Infra
                               </li>
                               <li className="cursor-pointer text-black/80 hover:text-primary">
-                                Mobile Development
+                                2. Tech Skills Augmentation
+                              </li>
+                              <li className="cursor-pointer text-black/80 hover:text-primary">
+                                3. Founder & Funding Network
                               </li>
                             </ul>
                           </div>
                           <div>
                             <h1 className="pb-1 text-xl font-semibold ">
-                              Development
+                              Why Godspeed ?
                             </h1>
                             <ul className="space-y-2">
                               <li className="cursor-pointer text-black/80 hover:text-primary">
-                                Web Development
+                                1. Start seeing productivity in 1-2 days
                               </li>
                               <li className="cursor-pointer text-black/80 hover:text-primary">
-                                Mobile Development
+                                2. Deploy and monitor any stack on cloud
+                              </li>
+                              <li className="cursor-pointer text-black/80 hover:text-primary">
+                                3. Achieve scale readiness on day 1
                               </li>
                             </ul>
                           </div>

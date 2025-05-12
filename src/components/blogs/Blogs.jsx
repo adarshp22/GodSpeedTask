@@ -12,9 +12,23 @@ const Blogs = () => {
             Latest Blogs
           </h1> 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3">
-            <BlogCard Img={Img1} />
-            <BlogCard Img={Img2} />
-            <BlogCard Img={Img3} />
+    <BlogCard 
+            Img={Img1} 
+            author="Abhay" 
+            date="Jan 1, 2025"
+
+          />
+          <BlogCard 
+            Img={Img2} 
+            author="Rohan" 
+            date="Feb 15, 2025"
+
+          />
+          <BlogCard 
+            Img={Img3} 
+            author="Vidit" 
+            date="Mar 20, 2025"
+          />
           </div>
         </section>
       </div>
