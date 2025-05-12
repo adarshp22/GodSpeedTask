@@ -11,23 +11,23 @@ const BannerDetails = ({ reverse }) => {
               reverse ? "md:order-last" : ""
             }`}
           >
-            <h1 className=" text-2xl md:text-4xl text-red-900 dark:text-red-400 font-bold">
+            <h1 className=" text-2xl md:text-3xl text-red-900 dark:text-red-400 font-bold">
               {" "}
               Vision
             </h1>
-            <p className="text-m text-slate-500 dark:text-slate-300">
+            <p className="text-sm text-slate-500 dark:text-slate-300">
               Godspeed helps founders and startups lead in the post-AI world
               through bold collaboration and breakthrough innovation.
             </p>
             <div>
               <ul className="flex list-inside list-disc flex-col gap-2 md:gap-4">
-                <li className="font-medium ">
+                <li className="font-small">
                   Equip startups to lead in a rapidly evolving AI landscape.        
                 </li>
-                <li className="font-medium ">
+                <li className="font-small ">
                   Cultivate high-impact collaboration across ecosystems.
                 </li>
-                <li className="font-medium ">
+                <li className="font-small ">
                   Accelerate innovation that creates real-world value.
                 </li>
               </ul>

@@ -11,7 +11,7 @@ const BannerDetails = ({ reverse }) => {
               reverse ? "md:order-last" : ""
             }`}
           >
-            <h1 className=" text-2xl md:text-4xl text-red-900 dark:text-red-400 font-bold">
+            <h1 className=" text-2xl md:text-3xl text-red-900 dark:text-red-400 font-bold">
               {" "}
               Mission
             </h1>
@@ -22,13 +22,13 @@ const BannerDetails = ({ reverse }) => {
             </p>
             <div>
               <ul className="flex list-inside list-disc flex-col gap-2 md:gap-4">
-                <li className="font-medium ">
+                <li className="font-small ">
                   Evolving AI and tech to simplify and scale product creation.
                 </li>
-                <li className="font-medium ">
+                <li className="font-small ">
                   Connecting a vibrant community of innovators and supporters.
                 </li>
-                <li className="font-medium ">
+                <li className="font-small">
                   Empowering mutual growth through open, collaborative progress.
                 </li>
               </ul>
