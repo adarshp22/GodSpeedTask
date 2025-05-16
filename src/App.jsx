@@ -11,16 +11,14 @@ function App() {
   return (
     <div className="dark:bg-gray-900 bg-white">
 
-      <Navbar />
-      <Hero />
-      <Ovc />
-      <BannerDetails />
-      <NewBanner reverse={true} />
-      <SimpleBanner />
-      <Blogs />
-      <Footer/>
-
-
+      {/* <Navbar /> */}
+       {/* <Hero /> */}
+      {/* <Ovc /> */}
+      {/* <BannerDetails /> */}
+      {/* <NewBanner reverse= {true} /> */}
+      {/* <SimpleBanner /> */}
+      {/* <Blogs /> */}
+      <Footer/> 
     </div>
   );
 }
