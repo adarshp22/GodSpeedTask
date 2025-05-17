@@ -10,7 +10,7 @@ const Navbar = () => {
     localStorage.getItem("theme") ? localStorage.getItem("theme") : "light"
   );
   const [showMenu, setShowMenu] = useState(false);
-  const element = document.documentElement;
+  const element = document.documentElement; // Stores the root HTML element (<html>) in a variable called element. & used for add/removing the dark class to the root for Tailwinnd's dark mode
 
   useEffect(() => {
     if (theme === "dark") {

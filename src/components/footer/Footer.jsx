@@ -103,7 +103,7 @@ const Footer = () => {
           {/* <div></div> */}
 
           {/* Footer Copyright Section */}
-          <div className="bottom-footer">
+          <div>
             <p className="border-t-2 border-gray-300/50 py-6 text-center">
               Copyright @ 2025. All Rights Reserved.
             </p>
