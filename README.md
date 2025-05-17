@@ -1,16 +1,41 @@
-<<<<<<< HEAD
-# React + Vite
+# 🚀 Godspeed - Interactive Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a fully responsive and interactive landing page built for **Godspeed**, using modern frontend technologies like **Vite**, **React**, and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+## 📌 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚡ Fast development with **Vite**
+- ⚛️ Modular and reusable components with **React**
+- 🎨 Fully styled using **Tailwind CSS**
+- 📱 Mobile-first and fully **responsive design**
+- 🧭 Smooth scroll navigation
+- 👥 Dedicated sections: **Home**, **Our Work**, **Team**, **Contact Us**, and **Pricing**
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# GodSpeedTask
->>>>>>> b44b0b6ef8dcc9f4792c2ab85b218f4c7ead8fc2
+1. Install dependencies
+bash
+Copy
+Edit
+npm install
+3. Start the development server
+bash
+Copy
+Edit
+npm run dev
+4. Build for production
+bash
+Copy
+Edit
+npm run build
+✨ Technologies Used
+Vite
+
+React
+
+Tailwind CSS
+
+📞 Contact
+Adarsh Pal
+📧 adarshp22@iitk.ac.in
+
